@@ -1,0 +1,9 @@
+name: venv2
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - flask
