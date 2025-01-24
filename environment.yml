@@ -1,4 +1,4 @@
-name: venv2
+name: exame_final_env
 channels:
   - defaults
 dependencies:
@@ -8,3 +8,5 @@ dependencies:
   - scikit-learn
   - flask
   - xgboost
+  - imbalanced-learn
+  - opencv
