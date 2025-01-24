@@ -7,6 +7,7 @@ dependencies:
   - matplotlib
   - scikit-learn
   - flask
+  - joblib
   - xgboost
   - imbalanced-learn
   - opencv
